@@ -19,3 +19,12 @@ The data we have is limited in explaining the observations, but we propose that 
 [General population map view](https://lingjie00.github.io/Singapore-population-map/output/pop_fig.html)
 
 [HDB population map view](https://lingjie00.github.io/Singapore-population-map/output/HDB_fig.html)
+
+## Graphs
+### HDB population growth by area
+![HDB population growth by area](https://raw.githubusercontent.com/lingjie00/Singapore-population-map/master/output/HDB_pop.png)
+
+
+
+### General population growth by area
+![General population growth by area](https://raw.githubusercontent.com/lingjie00/Singapore-population-map/master/output/sg_pop.png)
